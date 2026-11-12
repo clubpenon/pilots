@@ -1,0 +1,17 @@
+/* Show the language picker before the theme picker (header and mobile menu). */
+starlight-lang-select {
+	order: -1;
+}
+
+/* No social links are configured: hide the empty container and its divider. */
+.social-icons:empty {
+	display: none;
+}
+
+/* IPPI sticker chart on the flight rules page: render at 50% of the content width. */
+.sl-markdown-content img[src*='ippi-levels'] {
+	display: block;
+	width: 50%;
+	height: auto;
+	margin-inline: auto;
+}

@@ -5,11 +5,23 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://rules.clubpenon.org',
+	redirects: { '/': '/en/' },
 	integrations: [
 		starlight({
-			title: 'Club Peñón Rules',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/clubpenon/rules' }],
-			sidebar: [{ label: 'Rules', items: [{ autogenerate: { directory: 'rules' } }] }],
+			title: { en: 'Club Peñón Rules', es: 'Reglas del Club Peñón' },
+			defaultLocale: 'en',
+			locales: {
+				en: { label: 'English', lang: 'en' },
+				es: { label: 'Español', lang: 'es' },
+			},
+			customCss: ['./src/styles/custom.css'],
+			sidebar: [
+				{
+					label: 'Rules',
+					translations: { es: 'Reglas' },
+					items: [{ autogenerate: { directory: 'rules' } }],
+				},
+			],
 		}),
 	],
 });
