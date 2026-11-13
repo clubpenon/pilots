@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://rules.clubpenon.org',
+	site: 'https://pilots.clubpenon.org',
 	redirects: { '/': '/en/' },
 	integrations: [
 		starlight({
