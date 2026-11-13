@@ -12,8 +12,7 @@ El Club dispone de un área de carga y descarga de equipo, pero no de estacionam
 Uso del área de carga y descarga en el área de despegue:
 
 - Tiempo máximo de permanencia: **5 minutos**.
-- Excederlo inhabilita al piloto para ingresar al área en su siguiente visita.
-- Acumular 5 infracciones suspende el ingreso durante 12 meses, contados desde la fecha de la última infracción. Al concluir la suspensión, el conteo se reinicia.
+- Excederlo se sanciona; consulta [Multas y sanciones](/es/rules/fines/#exceder-el-tiempo-máximo-en-el-área-de-carga-y-descarga).
 
 ## Zona de armado
 

@@ -1,14 +1,8 @@
 ---
 title: Bienvenido al Club Peñón
-description: Las reglas del Club Peñón — léelas antes de tu visita.
+description: La guía para pilotos del Club Peñón — reglas, emergencias, meteorología, guías de cross country y más.
 ---
 
-¡Bienvenido! Nos alegra tenerte en el [Club Peñón](https://clubpenon.org).
+Esta es la guía para pilotos del [Club Peñón](https://clubpenon.org). Aquí encontrarás las reglas del club, qué hacer en caso de emergencia, información meteorológica, guías de cross country y más.
 
-Aquí encontrarás las reglas que todos seguimos en el club. Algunas pueden ser distintas de lo que conoces en tu país, así que **léelas antes de tu visita**. Sirven para que el club sea seguro y agradable para todos, y al visitarnos aceptas cumplirlas.
-
-Si tienes cualquier duda, pregunta a nuestro personal o escríbenos a [info@clubpenon.org](mailto:info@clubpenon.org).
-
-Empecemos por las reglas más importantes:
-- [Reglas de vuelo](/es/rules/flying/)
-- [Reglas de las instalaciones](/es/rules/facilities/)
+Antes de tu visita, lee las [reglas del club](/es/rules/).

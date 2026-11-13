@@ -12,8 +12,7 @@ The Club has an area for loading and unloading equipment, but no parking: you mu
 Use of the loading and unloading area at launch:
 
 - Maximum stay: **5 minutes**.
-- Exceeding it bars the pilot from entering the area on their next visit.
-- 5 accumulated violations suspend access for 12 months, counted from the date of the last violation. When the suspension ends, the count resets.
+- Exceeding it is sanctioned; see [Fines and sanctions](/en/rules/fines/#exceeding-the-time-limit-in-the-loading-area).
 
 ## Rigging areas
 

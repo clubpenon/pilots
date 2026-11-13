@@ -1,14 +1,8 @@
 ---
 title: Welcome to Club Peñón
-description: The rules of Club Peñón — please read them before your visit.
+description: The Club Peñón pilot guide — rules, emergency procedures, weather, cross-country guides, and more.
 ---
 
-Welcome! We're glad to have you at [Club Peñón](https://clubpenon.org).
+This is the pilot guide for [Club Peñón](https://clubpenon.org). Here you'll find the club rules, what to do in an emergency, weather information, cross-country guides, and more.
 
-This page sets out the rules everyone at the club follows. Some may differ from what you're used to at home, so **please read them before your visit**. They keep the club safe and enjoyable for everyone, and by visiting you agree to follow them.
-
-If anything is unclear, just ask the staff or contact us at [info@clubpenon.org](mailto:info@clubpenon.org).
-
-Let's start with the most important rules:
-- [Flight rules](/en/rules/flying/)
-- [Facility rules](/en/rules/facilities/)
+Before your visit, please read the [club rules](/en/rules/).
