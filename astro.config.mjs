@@ -8,7 +8,7 @@ export default defineConfig({
 	redirects: { '/': '/en/' },
 	integrations: [
 		starlight({
-			title: { en: 'Club Peñón Rules', es: 'Reglas del Club Peñón' },
+			title: 'Club Peñón',
 			defaultLocale: 'en',
 			locales: {
 				en: { label: 'English', lang: 'en' },
