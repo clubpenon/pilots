@@ -13,4 +13,3 @@ Si tienes cualquier duda, pregunta a nuestro personal o escríbenos a [info@club
 Empecemos por las reglas más importantes:
 - [Reglas de vuelo](/es/rules/flying/)
 - [Reglas de las instalaciones](/es/rules/facilities/)
-- [Multas y sanciones](/es/rules/fines/)
