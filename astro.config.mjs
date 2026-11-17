@@ -1,11 +1,16 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import { satteri } from '@astrojs/markdown-satteri';
+import { externalLinks } from './src/plugins/external-links.mjs';
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://pilots.clubpenon.org',
 	redirects: { '/': '/en/' },
+	markdown: {
+		processor: satteri({ hastPlugins: [externalLinks] }),
+	},
 	integrations: [
 		starlight({
 			title: 'Club Peñón',
