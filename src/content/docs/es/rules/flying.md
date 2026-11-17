@@ -109,7 +109,7 @@ Las reglas son distintas para visitantes y pilotos locales:
 
 #### IPPI 4, APPI 4 · IPPI 5, APPI 5
 
-- Sin restricciones.
+- Sin restricciones, **pero bajo tu propia responsabilidad**.
 
 ### Pilotos en vuelo tándem
 

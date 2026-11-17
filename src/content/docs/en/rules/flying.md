@@ -14,7 +14,7 @@ For the benefit of every pilot, we kindly ask you to learn the rules and to resp
 
 ## Licenses and certifications
 
-### Approved organizations and rating systems
+### Approved organizations
 
 The Club formally recognizes the validity of licenses issued by the following organizations:
 
@@ -69,47 +69,53 @@ Please read this section carefully: the pilot rating that appears on your licens
 
 ### Definitions
 
-- **Authorized Guide:** A pilot who has been formally authorized by the Club's Technical Committee to work as a Guide.
-- **Authorized Instructor:** A pilot who has been formally authorized by the Club's Technical Committee to work as an Instructor, is a current Club Member, and holds a valid membership.
-- **Authorized Tandem Pilot:** A pilot who has been formally authorized by the Club's Technical Committee to work as a Tandem Pilot, is a current Club Member, and holds a valid membership.
+- **Authorized:** A pilot who has been formally authorized by the Club's Technical Committee to operate as a Tandem Pilot, Guide, Assistant, or Instructor.
 - **Club Member:** A pilot accepted as an Associate during a General Assembly of the Club.
 - **Responsibility:** Instructors and Guides assume responsibility for their student's safety by co-signing their Release of Liability form, and are expected to supervise them at all times.
 
-<!--
 ### Clarifications
 
+We use a combination of the [IPPI System](https://www.fai.org/page/civl-ippi-card) and [APPI System](https://flyappi.org/education_system/) when refering to pilot ratings. These ratings are meant to serve as a reference. Equivalent ratings are accepted as long as they are issued by an [organization formally recognized by the Club](#approved-organizations).
+
+<!--
 - When "IPPI 1, APPI 1" is indicated, only APPI licenses or licenses bearing the IPPI logo with a rating of 1 are accepted. Equivalent licenses are not recognized.
 - When "APPI Pro Tandem, or equivalent" is indicated, APPI Pro Tandem licenses are accepted, as well as any license with an equivalent rating issued by an organization formally recognized by the Club.
 -->
 
 ### Pilots flying solo
 
+:::tip
+- If you are rated IPPI 1 or don't have a pilot license, you need to hire an Authorized Instructor.
+- If you are rated IPPI 2 or 3 you need to hire an Authorized Guide (with one [exception](#ippi-3)).
+- If you are rated IPPI 4 or 5 you can fly on your own.
+:::
+
 #### Without license
 
 - You must fly under the Responsibility of an Authorized Instructor.
 - The Authorized Instructor is responsible for evaluating your skill rating and ensuring that you follow the corresponding rules.
 
-#### IPPI 1, APPI 1
+#### IPPI 1
 
 - You must fly under the Responsibility of an Authorized Instructor.
 - You must fly with a red ribbon clearly visible to other pilots.
 - From November 1st to June 1st: you cannot fly between 11 am and 4 pm.
 
-#### IPPI 2, APPI 2
+#### IPPI 2
 
 - You must fly under the Responsibility of an Authorized Instructor or Authorized Guide.
 - You must fly with a red ribbon clearly visible to other pilots.
 - From November 1st to June 1st: you cannot fly between 11 am and 4 pm.
 
-#### IPPI 3, APPI 3
+#### IPPI 3
 
 Rules differ for visitors and local pilots:
 - **Visitor:** You must fly under the Responsibility of an Authorized Instructor or Authorized Guide.
 - **Club Member:** No restrictions.
 
-#### IPPI 4, APPI 4 · IPPI 5, APPI 5
+#### IPPI 4 or IPPI 5
 
-- No restrictions.
+- No restrictions, **but you fly under your own responsibility**.
 
 ### Pilots flying tandem
 
@@ -121,18 +127,23 @@ Licenses must be issued by an organization formally recognized by the Club in or
 
 - You are prohibited from flying tandem.
 
-#### IPPI 5, APPI 5
+#### IPPI 5
 
 - You must fly under the Responsibility of an Authorized Instructor.
-- Your passengers must hold a minimum certification of IPPI 2 or APPI 2.
+- Your passengers must hold a minimum certification of IPPI 2.
 - You are prohibited from charging passengers.
 
-#### APPI Non-commercial Tandem "In Progress", or equivalent
+#### APPI Non-commercial Tandem "In Progress"
 
-- Your passengers must hold a minimum certification of IPPI 2 or APPI 2.
+- Your passengers must hold a minimum certification of IPPI 2.
 - You are prohibited from charging passengers.
 
-#### IPPI 6, APPI Non-commercial Tandem, or equivalent · APPI Commercial Tandem, or equivalent
+#### APPI Non-commercial Tandem or IPPI 6
+
+- **Visitor:** You are prohibited from charging passengers.
+- **Authorized Tandem Pilot:** You are permitted to charge passengers.
+
+#### APPI Commercial Tandem
 
 - **Visitor:** You are prohibited from charging passengers.
 - **Authorized Tandem Pilot:** You are permitted to charge passengers.
