@@ -39,6 +39,11 @@ export default defineConfig({
 					translations: { es: 'Emergencias' },
 					items: [{ autogenerate: { directory: 'emergencies' } }],
 				},
+				{
+					label: 'Lists',
+					translations: { es: 'Listas' },
+					items: [{ autogenerate: { directory: 'lists' } }],
+				},
 			],
 		}),
 	],

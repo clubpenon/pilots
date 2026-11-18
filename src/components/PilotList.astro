@@ -1,0 +1,77 @@
+---
+import { getCollection } from 'astro:content';
+import { pilotLists, type PilotListId } from '../lists/authorized-pilots';
+
+interface Props {
+	list: PilotListId;
+	lang: 'en' | 'es';
+}
+
+const { list, lang } = Astro.props;
+if (!pilotLists.some((l) => l.id === list)) throw new Error(`Unknown pilot list "${list}"`);
+
+const pilots = (await getCollection('authorizedPilots', (p) => p.data.list === list))
+	.map((p) => p.data)
+	.sort((a, b) => a.name.localeCompare(b.name, lang));
+
+const empty = { en: 'No pilots listed yet.', es: 'Aún no hay pilotos en esta lista.' }[lang];
+const tel = (phone: string) => `tel:${phone.replace(/[^\d+]/g, '')}`;
+const host = (url: string) => new URL(url).hostname.replace(/^www\./, '');
+---
+
+{
+	pilots.length === 0 ? (
+		<p class="pilot-list-empty">{empty}</p>
+	) : (
+		<ul class="pilot-list not-content">
+			{pilots.map((p) => (
+				<li class="pilot-card">
+					<span class="pilot-name">{p.name}</span>
+					{p.phone && (
+						<a href={tel(p.phone)} class="pilot-contact">
+							{p.phone}
+						</a>
+					)}
+					{p.website && (
+						<a href={p.website} class="pilot-contact" target="_blank" rel="noopener">
+							{host(p.website)}
+						</a>
+					)}
+				</li>
+			))}
+		</ul>
+	)
+}
+
+<style>
+	.pilot-list {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr));
+		gap: 0.75rem;
+		margin-top: 1rem;
+		padding: 0;
+		list-style: none;
+	}
+	.pilot-card {
+		display: flex;
+		flex-direction: column;
+		gap: 0.25rem;
+		padding: 0.875rem 1rem;
+		border: 1px solid var(--sl-color-gray-5);
+		border-radius: 0.5rem;
+		background: var(--sl-color-black);
+	}
+	.pilot-name {
+		font-weight: 600;
+		color: var(--sl-color-white);
+	}
+	.pilot-contact {
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-text-accent);
+		overflow-wrap: anywhere;
+	}
+	.pilot-list-empty {
+		color: var(--sl-color-gray-3);
+		font-style: italic;
+	}
+</style>
