@@ -8,8 +8,9 @@ import {
 } from '../lists/authorized-pilots';
 
 const FIELDS = {
-	name: 'Full Name',
+	name: 'Public Name',
 	phone: 'Public Phone',
+	email: 'Public Email',
 	website: 'Public Website',
 } as const;
 
@@ -17,6 +18,7 @@ export const pilotSchema = z.object({
 	list: z.enum(pilotLists.map((l) => l.id) as [string, ...string[]]),
 	name: z.string().min(1),
 	phone: z.string().optional(),
+	email: z.email().optional(),
 	website: z.url().optional(),
 });
 
@@ -50,7 +52,7 @@ async function fetchList(token: string, list: PilotListDefinition) {
 	const records: z.infer<typeof airtableResponse>['records'] = [];
 	let offset: string | undefined;
 	do {
-		const params = new URLSearchParams({ filterByFormula: formulaFor(list), 'sort[0][field]': FIELDS.name });
+		const params = new URLSearchParams({ filterByFormula: formulaFor(list) });
 		for (const field of Object.values(FIELDS)) params.append('fields[]', field);
 		if (offset) params.set('offset', offset);
 
@@ -87,18 +89,24 @@ export function airtablePilotsLoader(): Loader {
 				for (const record of records) {
 					const id = `${list.id}/${record.id}`;
 					const f = record.fields;
+					const text = (field: string) => (typeof f[field] === 'string' ? f[field].trim() : '');
+					if (!text(FIELDS.name)) {
+						logger.warn(`${list.id}: skipping Public record ${record.id} with no "${FIELDS.name}"`);
+						continue;
+					}
 					const data = await parseData({
 						id,
 						data: {
 							list: list.id,
-							name: typeof f[FIELDS.name] === 'string' ? f[FIELDS.name].trim() : '',
-							phone: f[FIELDS.phone] || undefined,
-							website: f[FIELDS.website] || undefined,
+							name: text(FIELDS.name),
+							phone: text(FIELDS.phone) || undefined,
+							email: text(FIELDS.email) || undefined,
+							website: text(FIELDS.website) || undefined,
 						},
 					});
 					store.set({ id, data });
 				}
-				logger.info(`${list.id}: ${records.length}`);
+				logger.info(`${list.id}: ${store.values().filter((e) => e.data.list === list.id).length}`);
 			}
 		},
 	};

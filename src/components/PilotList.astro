@@ -32,6 +32,11 @@ const host = (url: string) => new URL(url).hostname.replace(/^www\./, '');
 							{p.phone}
 						</a>
 					)}
+					{p.email && (
+						<a href={`mailto:${p.email}`} class="pilot-contact">
+							{p.email}
+						</a>
+					)}
 					{p.website && (
 						<a href={p.website} class="pilot-contact" target="_blank" rel="noopener">
 							{host(p.website)}
