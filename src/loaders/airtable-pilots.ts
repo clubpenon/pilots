@@ -28,12 +28,17 @@ const airtableResponse = z.object({
 /** Airtable formula string literal. */
 const str = (value: string) => JSON.stringify(value);
 
-/** True when a multiple-select or rollup field contains `value` as a whole item. */
+/**
+ * True when a multiple-select or rollup field contains `value` as a whole item.
+ * In formulas Airtable may expose such fields as a single "A, B, C" string rather than an array,
+ * so both ", " and the ARRAYJOIN separator are normalized to "|" before matching.
+ */
 const contains = (field: string, value: string) =>
-	`FIND(${str(`,${value},`)}, "," & ARRAYJOIN({${field}}, ",") & ",")`;
+	`FIND(${str(`|${value}|`)}, "|" & SUBSTITUTE(ARRAYJOIN({${field}}, "|"), ", ", "|") & "|")`;
 
 function formulaFor(list: PilotListDefinition): string {
-	const conditions = [contains('Ratings', list.rating), '{Club Member}', '{Public}'];
+	const conditions = [contains('Ratings', list.rating), '{Public}'];
+	if (list.clubMember) conditions.push('{Club Member}');
 	if (list.membershipTypes?.length) {
 		conditions.push(`OR(${list.membershipTypes.map((t) => contains('Membership Type', t)).join(', ')})`);
 	}
