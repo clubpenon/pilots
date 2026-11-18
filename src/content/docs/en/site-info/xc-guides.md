@@ -2,7 +2,7 @@
 title: XC guides
 description: The classic cross-country routes from El Peñón — landmarks, thermals, heights and landing options.
 sidebar:
-  order: 3
+  order: 4
 ---
 
 El Peñón is one of the best cross-country sites in Mexico. From December to March, flights of over 100 km are possible, and records exceed 200 km. The classic flight goes to Valle de Bravo, landing at the Santa María lakeside landing zone, 14 km to the north-northwest.

@@ -2,7 +2,7 @@
 title: Guías de cross country
 description: Las rutas clásicas de cross country desde El Peñón — puntos de referencia, térmicas, alturas y opciones de aterrizaje.
 sidebar:
-  order: 3
+  order: 4
 ---
 
 El Peñón es uno de los mejores sitios de cross country de México. De diciembre a marzo se pueden hacer vuelos de más de 100 km, y los récords superan los 200 km. El vuelo clásico va a Valle de Bravo, aterrizando en el aterrizaje de Santa María, a la orilla del lago, 14 km al nor-noroeste.
