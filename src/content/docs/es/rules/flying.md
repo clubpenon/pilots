@@ -14,7 +14,7 @@ Por el bien de todos los pilotos, te pedimos que conozcas las reglas y las respe
 
 ## Licencias y certificaciones
 
-### Organizaciones y sistemas de niveles aprobados
+### Organizaciones aprobadas
 
 El Club reconoce formalmente la validez de las licencias emitidas por las siguientes organizaciones:
 
@@ -69,70 +69,77 @@ Lee esta sección con atención: el nivel de piloto que aparece en tu licencia d
 
 ### Definiciones
 
-- **Guía Autorizado:** Piloto autorizado formalmente por el Comité Técnico del Club para trabajar como Guía.
-- **Instructor Autorizado:** Piloto autorizado formalmente por el Comité Técnico del Club para trabajar como Instructor, que es Miembro del Club y tiene su membresía vigente.
-- **Piloto Tándem Autorizado:** Piloto autorizado formalmente por el Comité Técnico del Club para trabajar como Piloto Tándem, que es Miembro del Club y tiene su membresía vigente.
+- **Autorizado:** Piloto autorizado formalmente por el Comité Técnico del Club para operar como Piloto Tándem, Guía, Asistente o Instructor, y que es Miembro del Club.
 - **Miembro del Club:** Piloto aceptado como Asociado en una Asamblea General del Club.
 - **Responsabilidad:** Los Instructores y Guías asumen la responsabilidad de la seguridad de sus alumnos al firmar junto con ellos su carta responsiva, y deben supervisarlos en todo momento.
 
-<!--
 ### Aclaraciones
 
+Para referirnos a los niveles de piloto usamos una combinación del [sistema IPPI](https://www.fai.org/page/civl-ippi-card) y del [sistema APPI](https://flyappi.org/education_system/). Estos niveles sirven como referencia. Se aceptan niveles equivalentes siempre que estén emitidos por una [organización reconocida formalmente por el Club](#organizaciones-aprobadas).
+
+<!--
 - Cuando se indica «IPPI 1, APPI 1», solo se aceptan licencias APPI o licencias con el logotipo IPPI y nivel 1. No se reconocen licencias equivalentes.
 - Cuando se indica «APPI Pro Tandem, o equivalente», se aceptan las licencias APPI Pro Tandem, así como cualquier licencia de nivel equivalente emitida por una organización reconocida formalmente por el Club.
 -->
 
 ### Pilotos en vuelo monoplaza
 
+:::tip
+- Si tienes nivel IPPI 1 o no tienes licencia de piloto, debes contratar a un Instructor Autorizado.
+- Si tienes nivel IPPI 2 o 3, debes contratar a un Guía o Instructor Autorizado (con una [excepción](#ippi-3)).
+- Si tienes nivel IPPI 4 o 5, puedes volar por tu cuenta.
+:::
+
 #### Sin licencia
 
 - Debes volar bajo la Responsabilidad de un Instructor Autorizado.
 - El Instructor Autorizado es responsable de evaluar tu nivel y de asegurarse de que sigas las reglas correspondientes.
 
-#### IPPI 1, APPI 1
+#### IPPI 1
 
 - Debes volar bajo la Responsabilidad de un Instructor Autorizado.
 - Debes volar con un listón rojo claramente visible para los demás pilotos.
 - Del 1 de noviembre al 1 de junio: no puedes volar entre las 11:00 y las 16:00.
 
-#### IPPI 2, APPI 2
+#### IPPI 2
 
 - Debes volar bajo la Responsabilidad de un Instructor Autorizado o de un Guía Autorizado.
 - Debes volar con un listón rojo claramente visible para los demás pilotos.
 - Del 1 de noviembre al 1 de junio: no puedes volar entre las 11:00 y las 16:00.
 
-#### IPPI 3, APPI 3
+#### IPPI 3
 
 Las reglas son distintas para visitantes y pilotos locales:
 - **Visitante:** Debes volar bajo la Responsabilidad de un Instructor Autorizado o de un Guía Autorizado.
-- **Miembro del Club:** Sin restricciones.
+- **Miembro del Club:** Sin restricciones, **pero bajo tu propia responsabilidad**.
 
-#### IPPI 4, APPI 4 · IPPI 5, APPI 5
+#### IPPI 4 o IPPI 5
 
 - Sin restricciones, **pero bajo tu propia responsabilidad**.
 
 ### Pilotos en vuelo tándem
 
-:::note
-Para que una licencia se considere «equivalente» a un nivel IPPI o APPI, debe estar emitida por una organización reconocida formalmente por el Club.
-:::
-
 #### Sin licencia
 
 - Tienes prohibido volar en tándem.
 
-#### IPPI 5, APPI 5
+#### IPPI 5
 
 - Debes volar bajo la Responsabilidad de un Instructor Autorizado.
-- Tus pasajeros deben tener como mínimo una certificación IPPI 2 o APPI 2.
+- Tus pasajeros deben tener como mínimo una certificación IPPI 2.
 - Tienes prohibido cobrar a los pasajeros.
 
-#### APPI Non-commercial Tandem «In Progress», o equivalente
+#### APPI Non-commercial Tandem «In Progress»
 
-- Tus pasajeros deben tener como mínimo una certificación IPPI 2 o APPI 2.
+- Tus pasajeros deben tener como mínimo una certificación IPPI 2.
 - Tienes prohibido cobrar a los pasajeros.
 
-#### IPPI 6, APPI Non-commercial Tandem, o equivalente · APPI Commercial Tandem, o equivalente
+#### APPI Non-commercial Tandem o IPPI 6
+
+- **Visitante:** Tienes prohibido cobrar a los pasajeros.
+- **Piloto Tándem Autorizado:** Puedes cobrar a los pasajeros.
+
+#### APPI Commercial Tandem
 
 - **Visitante:** Tienes prohibido cobrar a los pasajeros.
 - **Piloto Tándem Autorizado:** Puedes cobrar a los pasajeros.

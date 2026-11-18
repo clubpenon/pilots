@@ -69,13 +69,13 @@ Please read this section carefully: the pilot rating that appears on your licens
 
 ### Definitions
 
-- **Authorized:** A pilot who has been formally authorized by the Club's Technical Committee to operate as a Tandem Pilot, Guide, Assistant, or Instructor.
+- **Authorized:** A pilot who has been formally authorized by the Club's Technical Committee to operate as a Tandem Pilot, Guide, Assistant, or Instructor, and is a current Club Member.
 - **Club Member:** A pilot accepted as an Associate during a General Assembly of the Club.
-- **Responsibility:** Instructors and Guides assume responsibility for their student's safety by co-signing their Release of Liability form, and are expected to supervise them at all times.
+- **Responsibility:** Instructors and Guides assume responsibility for their students' safety by co-signing their Release of Liability form, and are expected to supervise them at all times.
 
 ### Clarifications
 
-We use a combination of the [IPPI System](https://www.fai.org/page/civl-ippi-card) and [APPI System](https://flyappi.org/education_system/) when refering to pilot ratings. These ratings are meant to serve as a reference. Equivalent ratings are accepted as long as they are issued by an [organization formally recognized by the Club](#approved-organizations).
+We use a combination of the [IPPI system](https://www.fai.org/page/civl-ippi-card) and [APPI system](https://flyappi.org/education_system/) when referring to pilot ratings. These ratings are meant to serve as a reference. Equivalent ratings are accepted as long as they are issued by an [organization formally recognized by the Club](#approved-organizations).
 
 <!--
 - When "IPPI 1, APPI 1" is indicated, only APPI licenses or licenses bearing the IPPI logo with a rating of 1 are accepted. Equivalent licenses are not recognized.
@@ -86,8 +86,8 @@ We use a combination of the [IPPI System](https://www.fai.org/page/civl-ippi-car
 
 :::tip
 - If you are rated IPPI 1 or don't have a pilot license, you need to hire an Authorized Instructor.
-- If you are rated IPPI 2 or 3 you need to hire an Authorized Guide (with one [exception](#ippi-3)).
-- If you are rated IPPI 4 or 5 you can fly on your own.
+- If you are rated IPPI 2 or 3, you need to hire an Authorized Guide or Instructor (with one [exception](#ippi-3)).
+- If you are rated IPPI 4 or 5, you can fly on your own.
 :::
 
 #### Without license
@@ -111,17 +111,13 @@ We use a combination of the [IPPI System](https://www.fai.org/page/civl-ippi-car
 
 Rules differ for visitors and local pilots:
 - **Visitor:** You must fly under the Responsibility of an Authorized Instructor or Authorized Guide.
-- **Club Member:** No restrictions.
+- **Club Member:** No restrictions, **but you fly under your own responsibility**.
 
 #### IPPI 4 or IPPI 5
 
 - No restrictions, **but you fly under your own responsibility**.
 
 ### Pilots flying tandem
-
-:::note
-Licenses must be issued by an organization formally recognized by the Club in order to qualify as being "equivalent" to an IPPI or APPI rating.
-:::
 
 #### Without license
 
@@ -170,9 +166,9 @@ Only Authorized Instructors are allowed to give instruction to student pilots wh
 
 ### Pilots guiding other pilots
 
-Only Authorized Guides are allowed to guide pilots who hold a license with an IPPI 2, IPPI 3, or equivalent ratings.
+Only Authorized Guides are allowed to guide pilots who hold a license with an IPPI 2, IPPI 3, or equivalent rating.
 
-If you are not an Authorized Guide you are only permitted to guide pilots who are allowed to fly without supervision; see [Pilots Flying Solo](#pilots-flying-solo).
+If you are not an Authorized Guide you are only permitted to guide pilots who are allowed to fly without supervision; see [Pilots flying solo](#pilots-flying-solo).
 
 ## Flight-related rules
 
