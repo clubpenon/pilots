@@ -24,7 +24,7 @@ Few vehicles can fit, so we ask that pilots make considerate use of it.
 
 ## Rigging areas
 
-**Do not rig or leave flying equipment on the artificial turf.**
+**Do not rig or leave flying equipment in the launch area.**
 
 - The paraglider rigging area is on the left side of the launch entrance (to the east).
 - The hang glider rigging area is on the right side (to the west).

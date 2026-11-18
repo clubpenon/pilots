@@ -24,7 +24,7 @@ Caben pocos vehículos, por lo que pedimos a los pilotos que hagan un uso consid
 
 ## Zona de armado
 
-**Está prohibido armar y dejar equipos de vuelo en la zona de pasto artificial.**
+**Está prohibido armar y dejar equipos de vuelo en la zona de despegue.**
 
 - La zona de armado de parapente se encuentra del lado izquierdo del acceso al despegue (al este).
 - La zona de armado de alas delta se encuentra del lado derecho (al oeste).
