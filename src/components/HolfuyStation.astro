@@ -1,0 +1,83 @@
+---
+interface Props {
+	lang: 'en' | 'es';
+}
+
+const { lang } = Astro.props;
+
+const STATION_URL = 'https://holfuy.com/en/weather/609';
+const widgetUrl = `https://widget.holfuy.com/?station=609&su=km/h&t=C&lang=${lang}&mode=detailed`;
+const CAMERA_URL = 'https://api.holfuy.com/cam/s609.jpg';
+
+const t = {
+	en: {
+		widgetTitle: 'Live weather at El Peñón launch (Holfuy station 609)',
+		cameraAlt: 'Latest webcam image from El Peñón launch',
+		credit: 'Live data and webcam: Holfuy station 609, El Peñón Launch (2,350 m)',
+	},
+	es: {
+		widgetTitle: 'Meteorología en vivo en el despegue de El Peñón (estación Holfuy 609)',
+		cameraAlt: 'Última imagen de la webcam del despegue de El Peñón',
+		credit: 'Datos en vivo y webcam: estación Holfuy 609, El Peñón Launch (2350 m)',
+	},
+}[lang];
+---
+
+<div class="holfuy not-content">
+	<div class="holfuy-widget">
+		<iframe
+			src={widgetUrl}
+			title={t.widgetTitle}
+			width="580"
+			height="250"
+			frameborder="0"
+			marginheight="1"
+			marginwidth="1"
+			scrolling="no"
+			loading="lazy"></iframe>
+	</div>
+	<a href={STATION_URL} target="_blank" rel="noopener" class="holfuy-camera">
+		<img src={CAMERA_URL} alt={t.cameraAlt} loading="lazy" decoding="async" />
+	</a>
+	<p class="holfuy-credit">
+		<a href={STATION_URL} target="_blank" rel="noopener">{t.credit}</a>
+	</p>
+</div>
+
+<style>
+	.holfuy {
+		display: flex;
+		flex-direction: column;
+		gap: 0.75rem;
+		margin-top: 1rem;
+	}
+	/* The widget has a fixed 580 px layout: on narrow screens only the widget scrolls, not the page. */
+	.holfuy-widget {
+		max-width: 100%;
+		overflow-x: auto;
+	}
+	.holfuy-widget iframe {
+		display: block;
+		width: 580px;
+		height: 250px;
+		border: 0;
+	}
+	.holfuy-camera {
+		display: block;
+		max-width: 580px;
+	}
+	.holfuy-camera img {
+		display: block;
+		width: 100%;
+		height: auto;
+		border-radius: 0.5rem;
+		border: 1px solid var(--sl-color-gray-5);
+	}
+	.holfuy-credit {
+		margin: 0;
+		font-size: var(--sl-text-sm);
+	}
+	.holfuy-credit a {
+		color: var(--sl-color-text-accent);
+	}
+</style>

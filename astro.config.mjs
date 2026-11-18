@@ -44,6 +44,11 @@ export default defineConfig({
 					translations: { es: 'Listas' },
 					items: [{ autogenerate: { directory: 'lists' } }],
 				},
+				{
+					label: 'Site info',
+					translations: { es: 'Información del sitio' },
+					items: [{ autogenerate: { directory: 'site-info' } }],
+				},
 			],
 		}),
 	],
