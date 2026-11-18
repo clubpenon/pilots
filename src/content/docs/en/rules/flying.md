@@ -22,6 +22,13 @@ The Club formally recognizes the validity of licenses issued by the following or
 | --- | --- | --- |
 | FAI | International | [fai.org](https://www.fai.org/) |
 | APPI | International | [flyappi.org](https://flyappi.org/) |
+| USHPA | United States | [ushpa.org](https://www.ushpa.org/) |
+| HPAC/ACVL | Canada | [hpac.ca](https://hpac.ca/) |
+| FFVL | France | [ffvl.fr](https://federation.ffvl.fr/) |
+| DHV | Germany | [dhv.de](https://www.dhv.de/) |
+| FIVL | Italy | [fivl.it](http://www.fivl.it/) |
+| SHV/FSVL | Switzerland | [shv-fsvl.ch](https://www.shv-fsvl.ch/) |
+| BHPA | United Kingdom | [bhpa.co.uk](https://www.bhpa.co.uk/) |
 
 <!--
 | USHPA | United States | [ushpa.org](https://www.ushpa.org/) |
