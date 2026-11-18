@@ -7,12 +7,20 @@ sidebar:
 
 ## Parking
 
-The Club has an area for loading and unloading equipment, but no parking: you must park outside the Club's property.
+The Club has an area for loading and unloading equipment, but no parking: you must park outside the Club's property, near the restrooms.
 
-Use of the loading and unloading area at launch:
+## Loading and unloading area
+
+This area is past the gate, at the top of the driveway.
+Few vehicles can fit, so we ask that pilots make considerate use of it.
 
 - Maximum stay: **5 minutes**.
 - Exceeding it is sanctioned; see [Fines and sanctions](/en/rules/fines/#exceeding-the-time-limit-in-the-loading-area).
+- From November 1st to March 1st, the loading and unloading area is strictly reserved for:
+  - Authorized Instructors and Assistants, and their students.
+  - Authorized Guides and their groups.
+  - Authorized Tandem Pilots and their passengers.
+  - Hang glider pilots.
 
 ## Rigging areas
 
