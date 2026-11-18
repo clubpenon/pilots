@@ -1,34 +1,15 @@
 ---
 title: Emergencias
-description: Qué hacer en caso de emergencia en el Club Peñón y a quién llamar.
+description: Cómo se manejan las emergencias en el Club Peñón.
 sidebar:
   label: Resumen
   order: 0
 ---
 
-## En caso de emergencia
+El club no atiende directamente las emergencias. Los pilotos vuelan bajo su propia responsabilidad o la de su [Instructor](/es/lists/authorized-pilots/#instructores) o [Guía](/es/lists/authorized-pilots/#guías), y la búsqueda, el rescate y la extracción deben ser gestionados por ellos.
 
-1. Reportar la emergencia por radio y teléfono
-   - Frecuencia 145.050 MHz
-   - Teléfono [+52 722 933 9189](tel:+527229339189)
-2. Contactar al piloto por radio
-3. Evaluar la gravedad de la situación
-4. Acudir con
-   - Kit de primeros auxilios
-   - Radio
-   - GPS
+Existe, sin embargo, un grupo de voluntarios de respuesta a emergencias que ayuda a coordinar la atención de emergencias. Sigue el [protocolo](/es/emergencies/protocol/) para que sean alertados.
 
-## Contactos
-
-- Servicio Nacional de Emergencias: [911](tel:911)
-- Frecuencia de emergencia: 145.050 MHz
-- Emergencias Club Peñón: [+52 722 933 9189](tel:+527229339189)
-- Equipo de rescate «Lanza Tips»: [+52 722 357 4122](tel:+527223574122)
-- Coordinador de rescates «Pana»: [+52 722 458 0126](tel:+527224580126)
-
-## Enlaces
-
-Descarga el folleto de emergencia y guárdalo en tu teléfono:
-
-- 🇬🇧 [clubpenon.org/sos-en](https://clubpenon.org/sos-en)
-- 🇪🇸 [clubpenon.org/sos-es](https://clubpenon.org/sos-es)
+- [Protocolo](/es/emergencies/protocol/): qué hacer en caso de emergencia y a quién llamar.
+- [Reportes](/es/emergencies/reports/): cómo reportar emergencias y accidentes pasados al club.
+- [Equipos de rescate](/es/emergencies/rescue-teams/): equipos de rescate que operan en la zona.

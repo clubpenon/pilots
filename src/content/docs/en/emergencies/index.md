@@ -1,34 +1,15 @@
 ---
 title: Emergencies
-description: What to do in an emergency at Club Peñón, and who to call.
+description: How emergencies are handled at Club Peñón.
 sidebar:
   label: Overview
   order: 0
 ---
 
-## In case of emergency
+The club does not directly handle emergencies. Pilots fly under their own responsibility or that of their [Instructor](/en/lists/authorized-pilots/#instructors) or [Guide](/en/lists/authorized-pilots/#guides), and search, rescue and extraction must be handled by them.
 
-1. Report the emergency by radio and phone
-   - Frequency 145.050 MHz
-   - Phone [+52 722 933 9189](tel:+527229339189)
-2. Contact the pilot via radio
-3. Assess the severity of the situation
-4. Proceed with
-   - First aid kit
-   - Radio
-   - GPS
+There is, however, a volunteer emergency response group that helps coordinate emergency responses. Follow the [protocol](/en/emergencies/protocol/) so they are alerted.
 
-## Contacts
-
-- National Emergency Service: [911](tel:911)
-- Emergency frequency: 145.050 MHz
-- Club Peñón emergencies: [+52 722 933 9189](tel:+527229339189)
-- Rescue team "Lanza Tips": [+52 722 357 4122](tel:+527223574122)
-- Rescue coordinator "Pana": [+52 722 458 0126](tel:+527224580126)
-
-## Links
-
-Download the emergency flyer and save it to your phone:
-
-- 🇬🇧 [clubpenon.org/sos-en](https://clubpenon.org/sos-en)
-- 🇪🇸 [clubpenon.org/sos-es](https://clubpenon.org/sos-es)
+- [Protocol](/en/emergencies/protocol/): what to do in an emergency, and who to call.
+- [Reports](/en/emergencies/reports/): reporting past emergencies and accidents to the club.
+- [Rescue teams](/en/emergencies/rescue-teams/): rescue teams operating in the area.
