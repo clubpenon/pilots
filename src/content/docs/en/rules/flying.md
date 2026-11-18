@@ -69,7 +69,7 @@ Please read this section carefully: the pilot rating that appears on your licens
 
 ### Definitions
 
-- **Authorized:** A pilot who has been formally authorized by the Club's Technical Committee to operate as a Tandem Pilot, Guide, Assistant, or Instructor, and is a current Club Member.
+- **Authorized:** A pilot who has been formally authorized by the Club's Technical Committee to operate as a Tandem Pilot, Guide, Assistant, or Instructor.
 - **Club Member:** A pilot accepted as an Associate during a General Assembly of the Club.
 - **Responsibility:** Instructors and Guides assume responsibility for their students' safety by co-signing their Release of Liability form, and are expected to supervise them at all times.
 
@@ -85,32 +85,32 @@ We use a combination of the [IPPI system](https://www.fai.org/page/civl-ippi-car
 ### Pilots flying solo
 
 :::tip
-- If you are rated IPPI 1 or don't have a pilot license, you need to hire an Authorized Instructor.
-- If you are rated IPPI 2 or 3, you need to hire an Authorized Guide or Instructor (with one [exception](#ippi-3)).
+- If you are rated IPPI 1 or don't have a pilot license, you need to hire an [Authorized Instructor](/en/lists/authorized-pilots/#instructors).
+- If you are rated IPPI 2 or 3, you need to hire an [Authorized Guide](/en/lists/authorized-pilots/#guides) or [Instructor](/en/lists/authorized-pilots/#instructors) (with one [exception](#ippi-3)).
 - If you are rated IPPI 4 or 5, you can fly on your own.
 :::
 
 #### Without license
 
-- You must fly under the Responsibility of an Authorized Instructor.
-- The Authorized Instructor is responsible for evaluating your skill rating and ensuring that you follow the corresponding rules.
+- You must fly under the Responsibility of an [Authorized Instructor](/en/lists/authorized-pilots/#instructors).
+- The [Authorized Instructor](/en/lists/authorized-pilots/#instructors) is responsible for evaluating your skill rating and ensuring that you follow the corresponding rules.
 
 #### IPPI 1
 
-- You must fly under the Responsibility of an Authorized Instructor.
+- You must fly under the Responsibility of an [Authorized Instructor](/en/lists/authorized-pilots/#instructors).
 - You must fly with a red ribbon clearly visible to other pilots.
 - From November 1st to June 1st: you cannot fly between 11 am and 4 pm.
 
 #### IPPI 2
 
-- You must fly under the Responsibility of an Authorized Instructor or Authorized Guide.
+- You must fly under the Responsibility of an [Authorized Instructor](/en/lists/authorized-pilots/#instructors) or [Authorized Guide](/en/lists/authorized-pilots/#guides).
 - You must fly with a red ribbon clearly visible to other pilots.
 - From November 1st to June 1st: you cannot fly between 11 am and 4 pm.
 
 #### IPPI 3
 
 Rules differ for visitors and local pilots:
-- **Visitor:** You must fly under the Responsibility of an Authorized Instructor or Authorized Guide.
+- **Visitor:** You must fly under the Responsibility of an [Authorized Instructor](/en/lists/authorized-pilots/#instructors) or [Authorized Guide](/en/lists/authorized-pilots/#guides).
 - **Club Member:** No restrictions, **but you fly under your own responsibility**.
 
 #### IPPI 4 or IPPI 5
@@ -125,7 +125,7 @@ Rules differ for visitors and local pilots:
 
 #### IPPI 5
 
-- You must fly under the Responsibility of an Authorized Instructor.
+- You must fly under the Responsibility of an [Authorized Instructor](/en/lists/authorized-pilots/#instructors).
 - Your passengers must hold a minimum certification of IPPI 2.
 - You are prohibited from charging passengers.
 
@@ -137,12 +137,12 @@ Rules differ for visitors and local pilots:
 #### APPI Non-commercial Tandem or IPPI 6
 
 - **Visitor:** You are prohibited from charging passengers.
-- **Authorized Tandem Pilot:** You are permitted to charge passengers.
+- **[Authorized Tandem Pilot](/en/lists/authorized-pilots/#tandem-pilots):** You are permitted to charge passengers.
 
 #### APPI Commercial Tandem
 
 - **Visitor:** You are prohibited from charging passengers.
-- **Authorized Tandem Pilot:** You are permitted to charge passengers.
+- **[Authorized Tandem Pilot](/en/lists/authorized-pilots/#tandem-pilots):** You are permitted to charge passengers.
 
 #### Tandem license from the Club de Vuelo y Vela de Valle de Bravo
 
@@ -162,13 +162,13 @@ To fly commercial tandems you must become a Club Member, hold a valid membership
 - **Club Member:** You may provide instruction to pilots of any level.
 -->
 
-Only Authorized Instructors are allowed to give instruction to student pilots who do not hold a license or hold a license with an IPPI 1 or equivalent rating.
+Only [Authorized Instructors](/en/lists/authorized-pilots/#instructors) are allowed to give instruction to student pilots who do not hold a license or hold a license with an IPPI 1 or equivalent rating.
 
 ### Pilots guiding other pilots
 
-Only Authorized Guides are allowed to guide pilots who hold a license with an IPPI 2, IPPI 3, or equivalent rating.
+Only [Authorized Guides](/en/lists/authorized-pilots/#guides) are allowed to guide pilots who hold a license with an IPPI 2, IPPI 3, or equivalent rating.
 
-If you are not an Authorized Guide you are only permitted to guide pilots who are allowed to fly without supervision; see [Pilots flying solo](#pilots-flying-solo).
+If you are not an [Authorized Guide](/en/lists/authorized-pilots/#guides) you are only permitted to guide pilots who are allowed to fly without supervision; see [Pilots flying solo](#pilots-flying-solo).
 
 ## Flight-related rules
 

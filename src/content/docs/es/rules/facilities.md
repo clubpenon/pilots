@@ -17,9 +17,9 @@ Caben pocos vehículos, por lo que pedimos a los pilotos que hagan un uso consid
 - Tiempo máximo de permanencia: **5 minutos**.
 - Excederlo se sanciona; consulta [Multas y sanciones](/es/rules/fines/#exceder-el-tiempo-máximo-en-el-área-de-carga-y-descarga).
 - Del 1 de noviembre al 1 de marzo, el área de carga y descarga está reservada exclusivamente para:
-  - Instructores y Asistentes Autorizados, y sus alumnos.
-  - Guías Autorizados y sus grupos.
-  - Pilotos Tándem Autorizados y sus pasajeros.
+  - [Instructores](/es/lists/authorized-pilots/#instructores) y Asistentes Autorizados, y sus alumnos.
+  - [Guías Autorizados](/es/lists/authorized-pilots/#guías) y sus grupos.
+  - [Pilotos Tándem Autorizados](/es/lists/authorized-pilots/#pilotos-tándem) y sus pasajeros.
   - Pilotos de ala delta.
 
 ## Zona de armado
