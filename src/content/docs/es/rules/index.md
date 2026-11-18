@@ -2,7 +2,7 @@
 title: Reglas
 description: Las reglas del Club Peñón — léelas antes de tu visita.
 sidebar:
-  label: Resumen
+  label: Acerca de
   order: 0
 ---
 

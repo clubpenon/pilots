@@ -2,7 +2,7 @@
 title: Rules
 description: The rules of Club Peñón — please read them before your visit.
 sidebar:
-  label: Overview
+  label: About
   order: 0
 ---
 

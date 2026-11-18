@@ -2,7 +2,7 @@
 title: Emergencies
 description: How emergencies are handled at Club Peñón.
 sidebar:
-  label: Overview
+  label: About
   order: 0
 ---
 

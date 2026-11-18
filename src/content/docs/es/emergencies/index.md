@@ -2,7 +2,7 @@
 title: Emergencias
 description: Cómo se manejan las emergencias en el Club Peñón.
 sidebar:
-  label: Resumen
+  label: Acerca de
   order: 0
 ---
 
