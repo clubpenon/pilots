@@ -17,7 +17,7 @@ Caben pocos vehículos, por lo que pedimos a los pilotos que hagan un uso consid
 - Tiempo máximo de permanencia: **5 minutos**.
 - Excederlo se sanciona; consulta [Multas y sanciones](/es/rules/fines/#exceder-el-tiempo-máximo-en-el-área-de-carga-y-descarga).
 - Del 1 de noviembre al 1 de marzo, el área de carga y descarga está reservada exclusivamente para:
-  - [Instructores](/es/lists/authorized-pilots/#instructores) y Asistentes Autorizados, y sus alumnos.
+  - [Instructores](/es/lists/authorized-pilots/#instructores) y [Asistentes](/es/lists/authorized-pilots/#asistentes) Autorizados, y sus alumnos.
   - [Guías Autorizados](/es/lists/authorized-pilots/#guías) y sus grupos.
   - [Pilotos Tándem Autorizados](/es/lists/authorized-pilots/#pilotos-tándem) y sus pasajeros.
   - Pilotos de ala delta.
@@ -29,6 +29,8 @@ Caben pocos vehículos, por lo que pedimos a los pilotos que hagan un uso consid
 - La zona de armado de parapente se encuentra del lado izquierdo del acceso al despegue (al este).
 - La zona de armado de alas delta se encuentra del lado derecho (al oeste).
 
+La separación de las zonas de armado de parapente y ala delta es una recomendación, no una regla estricta. Cuando una zona esté llena, los pilotos pueden usar la otra.
+
 Estas zonas pueden cambiar a discreción del Club en caso de competencia u otro evento.
 
 ## Baños
@@ -37,12 +39,13 @@ Los baños se encuentran en el área externa de estacionamiento. Queda prohibido
 
 ## Sustancias ilícitas y cigarros
 
-Está prohibido dentro de las instalaciones del Club:
+Está prohibido el consumo de sustancias ilícitas dentro de las instalaciones del Club.
 
-- el consumo de sustancias ilícitas;
-- fumar cigarros de cualquier tipo, excepto cigarros electrónicos o vapes, por el daño que pueden ocasionar a los equipos (parapentes y alas delta) y porque pueden quemar el pasto artificial.
+Está prohibido fumar sobre el pasto artificial y cerca de equipos de parapente y ala delta, por el daño que puede causar. Los cigarros electrónicos y vapes no están sujetos a esta restricción.
 
-En temporada de secas, el uso de fósforos o cigarrillos puede causar incendios.
+:::caution
+En temporada de secas, los cigarros pueden provocar incendios forestales.
+:::
 
 ## Perros
 

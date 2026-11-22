@@ -17,7 +17,7 @@ Few vehicles can fit, so we ask that pilots make considerate use of it.
 - Maximum stay: **5 minutes**.
 - Exceeding it is sanctioned; see [Fines and sanctions](/en/rules/fines/#exceeding-the-time-limit-in-the-loading-area).
 - From November 1st to March 1st, the loading and unloading area is strictly reserved for:
-  - [Authorized Instructors](/en/lists/authorized-pilots/#instructors) and Assistants, and their students.
+  - [Authorized Instructors](/en/lists/authorized-pilots/#instructors) and [Assistants](/en/lists/authorized-pilots/#assistants), and their students.
   - [Authorized Guides](/en/lists/authorized-pilots/#guides) and their groups.
   - [Authorized Tandem Pilots](/en/lists/authorized-pilots/#tandem-pilots) and their passengers.
   - Hang glider pilots.
@@ -29,6 +29,8 @@ Few vehicles can fit, so we ask that pilots make considerate use of it.
 - The paraglider rigging area is on the left side of the launch entrance (to the east).
 - The hang glider rigging area is on the right side (to the west).
 
+The separation of the paragliding and hang gliding rigging areas is a recommendation, not a strict rule. When an area is full, pilots may use the other one.
+
 The Club may move these areas at its discretion during competitions or other events.
 
 ## Restrooms
@@ -37,12 +39,13 @@ The restrooms are in the outside parking area. Urinating in the vegetation or gr
 
 ## Illicit substances and smoking
 
-The following are prohibited on Club premises:
+Using illicit substances is prohibited on Club premises.
 
-- using illicit substances;
-- smoking of any kind, except e-cigarettes and vapes, because of the damage it can do to equipment (paragliders and hang gliders) and because it can burn the artificial turf.
+Smoking is prohibited on the artificial turf, and near paragliding and hang gliding equipment, because of the damage it can cause. E-cigarettes are not subject to this restriction.
 
-In the dry season, matches and cigarettes can start fires.
+:::caution
+In the dry season, cigarettes can start forest fires.
+:::
 
 ## Dogs
 

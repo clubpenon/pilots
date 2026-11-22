@@ -21,6 +21,8 @@ export const AIRTABLE_TABLE_ID = 'tbl79ynGtHHtXAqxg'; // Customers
 export const pilotLists = [
 	{ id: 'instructors-paragliding', rating: 'Instructor de Parapente', clubMember: true, membershipTypes: ['Instructor', 'Tandem'] },
 	{ id: 'instructors-hang-gliding', rating: 'Instructor de Ala Delta', clubMember: true, membershipTypes: ['Instructor', 'Tandem'] },
+	{ id: 'assistants-paragliding', rating: 'Asistente Instructor de Parapente', clubMember: true, membershipTypes: ['Instructor', 'Tandem'] },
+	{ id: 'assistants-hang-gliding', rating: 'Asistente Instructor de Ala Delta', clubMember: true, membershipTypes: ['Instructor', 'Tandem'] },
 	{ id: 'guides-paragliding', rating: 'Guía de Parapente' },
 	{ id: 'guides-hang-gliding', rating: 'Guía de Ala Delta' },
 	{ id: 'tandem-paragliding', rating: 'Piloto Tandem de Parapente', clubMember: true, paid: true },
