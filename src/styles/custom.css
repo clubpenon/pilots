@@ -15,3 +15,56 @@ starlight-lang-select {
 	height: auto;
 	margin-inline: auto;
 }
+
+/* Heading hierarchy: by default h2/h3/h4 differ only by ~20% in size, which is hard to read. */
+
+/* 1. Sizes (v2). Wide screens: h1 42, h2 35, h3 27, h4 20, h5 16 px. Narrow screens: h1 35, h2 29, h3 22, h4 18, h5 16 px. */
+:root {
+	--sl-text-h3: 1.375rem; /* 22px */
+	--sl-text-h4: var(--sl-text-lg); /* 18px */
+	--sl-text-h5: var(--sl-text-base); /* 16px */
+}
+@media (min-width: 50em) {
+	:root {
+		--sl-text-h3: 1.6875rem; /* 27px */
+		--sl-text-h4: var(--sl-text-xl); /* 20px */
+	}
+}
+
+/* 2. h2 opens a section: a line below it, as wide as the heading text, fading out logarithmically to the right
+   (opacity = 1 − log10(1 + 9x)). The page title's line is solid and full width. */
+.sl-markdown-content .sl-heading-wrapper.level-h2 {
+	width: fit-content;
+	max-width: 100%;
+}
+.sl-markdown-content .sl-heading-wrapper.level-h2::after {
+	content: '';
+	display: block;
+	height: 2px;
+	margin-top: 0.35em;
+	background: linear-gradient(
+		to right,
+		color-mix(in srgb, var(--sl-color-gray-4) 100%, transparent) 0%,
+		color-mix(in srgb, var(--sl-color-gray-4) 72%, transparent) 10%,
+		color-mix(in srgb, var(--sl-color-gray-4) 55%, transparent) 20%,
+		color-mix(in srgb, var(--sl-color-gray-4) 43%, transparent) 30%,
+		color-mix(in srgb, var(--sl-color-gray-4) 34%, transparent) 40%,
+		color-mix(in srgb, var(--sl-color-gray-4) 26%, transparent) 50%,
+		color-mix(in srgb, var(--sl-color-gray-4) 19%, transparent) 60%,
+		color-mix(in srgb, var(--sl-color-gray-4) 14%, transparent) 70%,
+		color-mix(in srgb, var(--sl-color-gray-4) 9%, transparent) 80%,
+		color-mix(in srgb, var(--sl-color-gray-4) 4%, transparent) 90%,
+		color-mix(in srgb, var(--sl-color-gray-4) 0%, transparent) 100%
+	);
+}
+
+/* 3. h4 in a muted colour, so it reads as a label within its h3 section. */
+.sl-markdown-content h4 {
+	color: var(--sl-color-gray-2);
+}
+
+/* "On this page" (desktop): highlight the current section with a background, not just a text colour.
+   Starlight already gives these links padding and slightly rounded corners. */
+starlight-toc a[aria-current='true'] {
+	background-color: var(--sl-color-accent-low);
+}

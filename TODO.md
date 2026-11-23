@@ -18,6 +18,11 @@ Current source: the landing zones map on Google My Maps.
   - [X] Committee approval.
 - [X] Add a page explaining the different memberships and their costs, plus the entrance passes and how they work.
 - [X] Explain the agreement with the Club de Vuelo y Vela de Valle de Bravo in more detail.
+- [ ] Other rules: explain the "cortesías" (free Annual Pass) we give to:
+  - [ ] people with disabilities (minusválidos);
+  - [ ] minors (menores de edad);
+  - [ ] natives of El Peñón (nativos del Peñón);
+  - [ ] services rendered to the Club (por servicios rendidos).
 
 ## Emergencies: InReach/SPOT contact email
 

@@ -157,17 +157,6 @@ Estás sujeto a las mismas reglas que todos los demás pilotos en cuanto a licen
 
 ### Pilotos que imparten instrucción
 
-<!--
-#### Sin licencia
-
-- Tienes prohibido impartir instrucción.
-
-#### APPI Assistant Instructor, APPI Instructor, APPI Master Instructor, o equivalente
-
-- **Visitante:** Puedes impartir instrucción a pilotos con una certificación mínima de IPPI 2 o APPI 2.
-- **Asociado del Club:** Puedes impartir instrucción a pilotos de cualquier nivel.
--->
-
 Solo los [Instructores Autorizados](/es/lists/authorized-pilots/#instructores) pueden impartir instrucción a pilotos que no tienen licencia, o cuya licencia tiene nivel IPPI 1 o equivalente.
 
 Para ser Instructor Autorizado, debes:

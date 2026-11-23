@@ -157,17 +157,6 @@ You are subject to the same rules as every other pilot in regard to licenses and
 
 ### Pilots giving instruction
 
-<!--
-#### Without license
-
-- You are prohibited from providing instruction.
-
-#### APPI Assistant Instructor, APPI Instructor, APPI Master Instructor, or equivalent
-
-- **Visitor:** You may provide instruction to pilots certified at a minimum of IPPI 2 or APPI 2.
-- **Club Member:** You may provide instruction to pilots of any level.
--->
-
 Only [Authorized Instructors](/en/lists/authorized-pilots/#instructors) are allowed to give instruction to pilots who do not have a license, or whose license is rated IPPI 1 or equivalent.
 
 To become an Authorized Instructor, you must:
