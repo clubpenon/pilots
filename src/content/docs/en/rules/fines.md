@@ -2,7 +2,7 @@
 title: Sanctions
 description: Table of sanctions at Club Peñón.
 sidebar:
-  order: 4
+  order: 5
 ---
 
 ## Top landing on a tandem flight

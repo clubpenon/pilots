@@ -2,7 +2,7 @@
 title: Other rules
 description: Other Club Peñón rules, including the agreement with the Club de Vuelo y Vela de Valle de Bravo.
 sidebar:
-  order: 3
+  order: 4
 ---
 
 ## Agreement with the Club de Vuelo y Vela de Valle de Bravo

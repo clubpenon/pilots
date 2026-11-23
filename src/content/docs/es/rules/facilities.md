@@ -2,7 +2,7 @@
 title: Reglas de las instalaciones
 description: Reglas de uso de las instalaciones del Club Peñón.
 sidebar:
-  order: 2
+  order: 3
 ---
 
 ## Estacionamiento

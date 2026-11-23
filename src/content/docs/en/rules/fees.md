@@ -2,7 +2,7 @@
 title: Fees
 description: Club Peñón entrance passes, Season Passes and Annual Passes, and their fees.
 sidebar:
-  order: 5
+  order: 6
 ---
 
 All fees are in Mexican pesos (MXN). All entrance passes work with a QR code.

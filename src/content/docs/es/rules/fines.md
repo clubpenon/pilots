@@ -2,7 +2,7 @@
 title: Sanciones
 description: Tabla de sanciones del Club Peñón.
 sidebar:
-  order: 4
+  order: 5
 ---
 
 ## Top landing en tándem

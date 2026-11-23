@@ -2,7 +2,7 @@
 title: Cuotas
 description: Los pases de entrada del Club Peñón, pases de temporada y pases anuales, y sus cuotas.
 sidebar:
-  order: 5
+  order: 6
 ---
 
 Todas las cuotas están en pesos mexicanos (MXN). Todos los pases de entrada funcionan con un código QR.

@@ -2,7 +2,7 @@
 title: Otras reglas
 description: Otras reglas del Club Peñón, incluido el convenio con el Club de Vuelo y Vela de Valle de Bravo.
 sidebar:
-  order: 3
+  order: 4
 ---
 
 ## Convenio con el Club de Vuelo y Vela de Valle de Bravo

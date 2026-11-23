@@ -2,7 +2,7 @@
 title: Facility rules
 description: Rules for using the Club Peñón facilities.
 sidebar:
-  order: 2
+  order: 3
 ---
 
 ## Parking
