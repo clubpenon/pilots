@@ -27,7 +27,7 @@ El despegue se amplió en 2008 para el Campeonato Mundial de Parapente 2009 y se
 - **Viento:** sopla del suroeste todo el día y a menudo rola al oeste al atardecer.
 - **Kiteo:** permitido, pero los pilotos que aterrizan siempre tienen prioridad; consulta las [reglas de kiteo](/es/rules/flying/#kiteo).
 - **Acceso:** el camino de acceso está indicado con un letrero en la carretera. Para volver a subir al despegue, consulta la [Información de viaje](/es/site-info/travel/#desde-el-aterrizaje-del-piano).
-- **Comida y hospedaje:** Hangar 5 y Very Muy Épico están junto al aterrizaje; consulta los [Negocios de pilotos](/es/site-info/travel/#negocios-de-pilotos).
+- **Comida y hospedaje:** Very Muy Épico está a 2 minutos a pie del aterrizaje, y Hangar 5 (que tiene su propio aterrizaje) a 5 minutos; consulta los [Negocios de pilotos](/es/site-info/travel/#negocios-de-pilotos).
 
 ## Más allá de la zona de vuelo
 

@@ -27,7 +27,7 @@ The launch was expanded in 2008 for the 2009 Paragliding World Championship and 
 - **Wind:** it blows from the southwest all day and often shifts to the west at sunset.
 - **Kiting:** allowed, but landing pilots always have priority; see the [kiting rules](/en/rules/flying/#kiting).
 - **Access:** the access road is signposted from the main road. To get back up to launch, see [Travel information](/en/site-info/travel/#from-the-el-piano-landing-zone).
-- **Food and lodging:** Hangar 5 and Very Muy Épico are right by the landing zone; see [Pilot-owned businesses](/en/site-info/travel/#pilot-owned-businesses).
+- **Food and lodging:** Very Muy Épico is a 2-minute walk from the landing zone, and Hangar 5 (which has its own landing zone) a 5-minute walk; see [Pilot-owned businesses](/en/site-info/travel/#pilot-owned-businesses).
 
 ## Beyond the flight zone
 
