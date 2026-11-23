@@ -5,12 +5,7 @@ sidebar:
   order: 1
 ---
 
-El Club opera bajo un régimen de reglas estrictas con un doble propósito:
-
-1. Que todos los pilotos vuelen seguros y contentos.
-2. Mantener el sitio abierto y a salvo de repercusiones legales.
-
-Por el bien de todos los pilotos, te pedimos que conozcas las reglas y las respetes.
+Estas reglas buscan que los pilotos estén seguros y contentos, y que el sitio siga abierto y protegido de repercusiones legales. Te pedimos amablemente que las respetes.
 
 ## Licencias y certificaciones
 
@@ -77,12 +72,12 @@ Lee esta sección con atención: el nivel de piloto que aparece en tu licencia d
 ### Definiciones
 
 - **Autorizado:** Piloto autorizado formalmente por el Comité Técnico del Club para operar como Piloto Tándem, Guía, Asistente o Instructor.
-- **Miembro del Club:** Piloto aceptado como Asociado en una Asamblea General del Club.
+- **Asociado del Club:** Piloto aceptado como Asociado en una Asamblea General del Club.
 - **Responsabilidad:** Los Instructores y Guías asumen la responsabilidad de la seguridad de sus alumnos al firmar junto con ellos su carta responsiva, y deben supervisarlos en todo momento.
 
 ### Aclaraciones
 
-Para referirnos a los niveles de piloto usamos una combinación del [sistema IPPI](https://www.fai.org/page/civl-ippi-card) y del [sistema APPI](https://flyappi.org/education_system/). Estos niveles sirven como referencia. Se aceptan niveles equivalentes siempre que estén emitidos por una [organización reconocida formalmente por el Club](#organizaciones-aprobadas).
+Para referirnos a los niveles de piloto usamos una combinación de los sistemas [IPPI](https://www.fai.org/page/civl-ippi-card) y [APPI](https://flyappi.org/education_system/). Estos niveles sirven como referencia. Se aceptan niveles equivalentes siempre que estén emitidos por una [organización reconocida formalmente por el Club](#organizaciones-aprobadas).
 
 <!--
 - Cuando se indica «IPPI 1, APPI 1», solo se aceptan licencias APPI o licencias con el logotipo IPPI y nivel 1. No se reconocen licencias equivalentes.
@@ -93,7 +88,7 @@ Para referirnos a los niveles de piloto usamos una combinación del [sistema IPP
 
 :::tip
 - Si tienes nivel IPPI 1 o no tienes licencia de piloto, debes contratar a un [Instructor Autorizado](/es/lists/authorized-pilots/#instructores).
-- Si tienes nivel IPPI 2 o 3, debes contratar a un [Guía](/es/lists/authorized-pilots/#guías) o [Instructor Autorizado](/es/lists/authorized-pilots/#instructores) (con una [excepción](#ippi-3)).
+- Si tienes nivel IPPI 2 o 3, debes contratar a un [Guía Autorizado](/es/lists/authorized-pilots/#guías) o [Instructor Autorizado](/es/lists/authorized-pilots/#instructores) (con una [excepción](#ippi-3)).
 - Si tienes nivel IPPI 4 o 5, puedes volar por tu cuenta.
 :::
 
@@ -118,13 +113,18 @@ Para referirnos a los niveles de piloto usamos una combinación del [sistema IPP
 
 Las reglas son distintas para visitantes y pilotos locales:
 - **Visitante:** Debes volar bajo la Responsabilidad de un [Instructor Autorizado](/es/lists/authorized-pilots/#instructores) o de un [Guía Autorizado](/es/lists/authorized-pilots/#guías).
-- **Miembro del Club:** Sin restricciones, **pero bajo tu propia responsabilidad**.
+- **Asociado del Club:** Sin restricciones, **pero bajo tu propia responsabilidad**.
 
 #### IPPI 4 o IPPI 5
 
 - Sin restricciones, **pero bajo tu propia responsabilidad**.
 
 ### Pilotos en vuelo tándem
+
+:::tip
+- Para volar tándem no comercial, necesitas la certificación de tándem correspondiente (ver abajo).
+- Para volar tándem comercial, debes ser Asociado del Club con tu membresía vigente y estar autorizado formalmente por el Comité Técnico del Club como [Piloto Tándem Autorizado](/es/lists/authorized-pilots/#pilotos-tándem).
+:::
 
 #### Sin licencia
 
@@ -153,8 +153,7 @@ Las reglas son distintas para visitantes y pilotos locales:
 
 #### Licencia de tándem del Club de Vuelo y Vela de Valle de Bravo
 
-Puedes volar en monoplaza y hacer tándems no comerciales sin pagar la cuota de acceso.
-Para hacer tándems comerciales debes hacerte Miembro del Club, tener tu membresía vigente y contar con la autorización formal del Comité Técnico del Club.
+Estás sujeto a las mismas reglas que todos los demás pilotos en cuanto a licencias y certificaciones. Las excepciones en tu caso se refieren únicamente al pago del pase de entrada. Consulta la sección dedicada al convenio entre los clubes en la página [Otras reglas](/es/rules/other/#convenio-con-el-club-de-vuelo-y-vela-de-valle-de-bravo).
 
 ### Pilotos que imparten instrucción
 
@@ -166,16 +165,26 @@ Para hacer tándems comerciales debes hacerte Miembro del Club, tener tu membres
 #### APPI Assistant Instructor, APPI Instructor, APPI Master Instructor, o equivalente
 
 - **Visitante:** Puedes impartir instrucción a pilotos con una certificación mínima de IPPI 2 o APPI 2.
-- **Miembro del Club:** Puedes impartir instrucción a pilotos de cualquier nivel.
+- **Asociado del Club:** Puedes impartir instrucción a pilotos de cualquier nivel.
 -->
 
-Solo los [Instructores Autorizados](/es/lists/authorized-pilots/#instructores) pueden impartir instrucción a pilotos alumnos que no tienen licencia o que tienen una licencia con nivel IPPI 1 o equivalente.
+Solo los [Instructores Autorizados](/es/lists/authorized-pilots/#instructores) pueden impartir instrucción a pilotos que no tienen licencia, o cuya licencia tiene nivel IPPI 1 o equivalente.
+
+Para ser Instructor Autorizado, debes:
+
+- ser Asociado del Club,
+- tener una Membresía de Instructor vigente, y
+- ser autorizado formalmente por el Comité Técnico del Club.
+
+Los [Asistentes Autorizados](/es/lists/authorized-pilots/#asistentes) pueden impartir instrucción bajo la supervisión de un Instructor Autorizado, quien conserva la responsabilidad plena por la seguridad de los alumnos y por la instrucción impartida.
 
 ### Pilotos que guían a otros pilotos
 
 Solo los [Guías Autorizados](/es/lists/authorized-pilots/#guías) pueden guiar a pilotos con licencia de nivel IPPI 2, IPPI 3 o equivalente.
 
-Si no eres [Guía Autorizado](/es/lists/authorized-pilots/#guías), solo puedes guiar a pilotos que tienen permitido volar sin supervisión; consulta [Pilotos en vuelo monoplaza](#pilotos-en-vuelo-monoplaza).
+Los pilotos que no tienen licencia, o cuya licencia tiene nivel IPPI 1 o equivalente, no pueden ser guiados. Deben estar bajo la supervisión de un [Instructor Autorizado](/es/lists/authorized-pilots/#instructores).
+
+Si no eres [Guía Autorizado](/es/lists/authorized-pilots/#guías), solo puedes guiar a pilotos que tienen permitido volar sin supervisión (es decir, pilotos con nivel IPPI 4+); consulta [Pilotos en vuelo monoplaza](#pilotos-en-vuelo-monoplaza).
 
 ## Reglas relacionadas con el vuelo
 
@@ -199,7 +208,7 @@ Del 1 de noviembre al 1 de junio, entre las 11:00 y las 16:00, aplican algunas r
 ### Top landing
 
 **Está prohibido el top landing en diciembre y enero.**  
-**Está prohibido el top landing en vuelo tándem durante todo el año;** consulta [Multas y sanciones](/es/rules/fines/).
+**Está prohibido el top landing en vuelo tándem durante todo el año;** consulta [Sanciones](/es/rules/fines/).
 
 Los pilotos monoplaza pueden hacer top landing:
 - De febrero a noviembre, y

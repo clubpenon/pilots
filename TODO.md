@@ -12,12 +12,12 @@ Current source: the landing zones map on Google My Maps.
 
 ## Rules and membership content
 
-- [ ] Rules: explain the tandem rules in more detail.
-  - [ ] Commercial tandems vs. "cortesías" (flying friends and family for free).
-  - [ ] Costs and membership options for tandem pilots.
-  - [ ] Committee approval.
-- [ ] Add a page explaining the different memberships and their costs, plus the entrance passes and how they work.
-- [ ] Explain the agreement with the Club de Vela y Vuelo de Valle de Bravo in more detail.
+- [X] Rules: explain the tandem rules in more detail.
+  - [X] Commercial tandems vs. "cortesías" (flying friends and family for free).
+  - [X] Costs and membership options for tandem pilots.
+  - [X] Committee approval.
+- [X] Add a page explaining the different memberships and their costs, plus the entrance passes and how they work.
+- [X] Explain the agreement with the Club de Vuelo y Vela de Valle de Bravo in more detail.
 
 ## Emergencies: InReach/SPOT contact email
 

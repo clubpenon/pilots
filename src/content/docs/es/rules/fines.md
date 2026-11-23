@@ -1,8 +1,8 @@
 ---
-title: Multas y sanciones
-description: Tabla de multas y sanciones del Club Peñón.
+title: Sanciones
+description: Tabla de sanciones del Club Peñón.
 sidebar:
-  order: 3
+  order: 4
 ---
 
 ## Top landing en tándem

@@ -15,7 +15,7 @@ This area is past the gate, at the top of the driveway.
 Few vehicles can fit, so we ask that pilots make considerate use of it.
 
 - Maximum stay: **5 minutes**.
-- Exceeding it is sanctioned; see [Fines and sanctions](/en/rules/fines/#exceeding-the-time-limit-in-the-loading-area).
+- Exceeding it is sanctioned; see [Sanctions](/en/rules/fines/#exceeding-the-time-limit-in-the-loading-area).
 - From November 1st to March 1st, the loading and unloading area is strictly reserved for:
   - [Authorized Instructors](/en/lists/authorized-pilots/#instructors) and [Assistants](/en/lists/authorized-pilots/#assistants), and their students.
   - [Authorized Guides](/en/lists/authorized-pilots/#guides) and their groups.

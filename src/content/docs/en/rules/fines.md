@@ -1,8 +1,8 @@
 ---
-title: Fines and sanctions
-description: Table of fines and sanctions at Club Peñón.
+title: Sanctions
+description: Table of sanctions at Club Peñón.
 sidebar:
-  order: 3
+  order: 4
 ---
 
 ## Top landing on a tandem flight

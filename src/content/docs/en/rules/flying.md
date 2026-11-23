@@ -5,12 +5,7 @@ sidebar:
   order: 1
 ---
 
-The Club operates under a regime of strict rules whose purpose is two-fold:
-
-1. To keep every pilot safe and happy.
-2. To keep the site open and safe from legal repercussions.
-
-For the benefit of every pilot, we kindly ask you to learn the rules and to respect them.
+These rules keep pilots safe and happy, and keep the site open and protected from legal repercussions. We kindly ask you to respect them.
 
 ## Licenses and certifications
 
@@ -82,7 +77,7 @@ Please read this section carefully: the pilot rating that appears on your licens
 
 ### Clarifications
 
-We use a combination of the [IPPI system](https://www.fai.org/page/civl-ippi-card) and [APPI system](https://flyappi.org/education_system/) when referring to pilot ratings. These ratings are meant to serve as a reference. Equivalent ratings are accepted as long as they are issued by an [organization formally recognized by the Club](#approved-organizations).
+We use a combination of the [IPPI](https://www.fai.org/page/civl-ippi-card) and [APPI](https://flyappi.org/education_system/) systems when referring to pilot ratings. These ratings are meant to serve as a reference. Equivalent ratings are accepted as long as they are issued by an [organization formally recognized by the Club](#approved-organizations).
 
 <!--
 - When "IPPI 1, APPI 1" is indicated, only APPI licenses or licenses bearing the IPPI logo with a rating of 1 are accepted. Equivalent licenses are not recognized.
@@ -93,7 +88,7 @@ We use a combination of the [IPPI system](https://www.fai.org/page/civl-ippi-car
 
 :::tip
 - If you are rated IPPI 1 or don't have a pilot license, you need to hire an [Authorized Instructor](/en/lists/authorized-pilots/#instructors).
-- If you are rated IPPI 2 or 3, you need to hire an [Authorized Guide](/en/lists/authorized-pilots/#guides) or [Instructor](/en/lists/authorized-pilots/#instructors) (with one [exception](#ippi-3)).
+- If you are rated IPPI 2 or 3, you need to hire an [Authorized Guide](/en/lists/authorized-pilots/#guides) or [Authorized Instructor](/en/lists/authorized-pilots/#instructors) (with one [exception](#ippi-3)).
 - If you are rated IPPI 4 or 5, you can fly on your own.
 :::
 
@@ -126,6 +121,11 @@ Rules differ for visitors and local pilots:
 
 ### Pilots flying tandem
 
+:::tip
+- To fly non-commercial tandems, you need the corresponding tandem certification (see below).
+- To fly commercial tandems, you must be a Club Member holding a valid membership, and be formally authorized by the Club's Technical Committee as an [Authorized Tandem Pilot](/en/lists/authorized-pilots/#tandem-pilots).
+:::
+
 #### Without license
 
 - You are prohibited from flying tandem.
@@ -153,8 +153,7 @@ Rules differ for visitors and local pilots:
 
 #### Tandem license from the Club de Vuelo y Vela de Valle de Bravo
 
-You can fly solo as well as fly non-commercial tandems without having to pay the entrance fee.
-To fly commercial tandems you must become a Club Member, hold a valid membership, and be formally authorized by the Club's Technical Committee.
+You are subject to the same rules as every other pilot in regard to licenses and certifications. The exceptions that apply to you concern only the payment of the entrance pass. Please refer to the dedicated section about the agreement between the clubs on the [Other rules](/en/rules/other/#agreement-with-the-club-de-vuelo-y-vela-de-valle-de-bravo) page.
 
 ### Pilots giving instruction
 
@@ -169,13 +168,23 @@ To fly commercial tandems you must become a Club Member, hold a valid membership
 - **Club Member:** You may provide instruction to pilots of any level.
 -->
 
-Only [Authorized Instructors](/en/lists/authorized-pilots/#instructors) are allowed to give instruction to student pilots who do not hold a license or hold a license with an IPPI 1 or equivalent rating.
+Only [Authorized Instructors](/en/lists/authorized-pilots/#instructors) are allowed to give instruction to pilots who do not have a license, or whose license is rated IPPI 1 or equivalent.
+
+To become an Authorized Instructor, you must:
+
+- be a Club Member,
+- hold a valid Instructor Membership, and
+- be formally authorized by the Club's Technical Committee.
+
+[Authorized Assistants](/en/lists/authorized-pilots/#assistants) may provide instruction under the supervision of an Authorized Instructor, who retains full responsibility for the students' safety and for the instruction given.
 
 ### Pilots guiding other pilots
 
 Only [Authorized Guides](/en/lists/authorized-pilots/#guides) are allowed to guide pilots who hold a license with an IPPI 2, IPPI 3, or equivalent rating.
 
-If you are not an [Authorized Guide](/en/lists/authorized-pilots/#guides) you are only permitted to guide pilots who are allowed to fly without supervision; see [Pilots flying solo](#pilots-flying-solo).
+Pilots who do not have a license, or whose license is rated IPPI 1 or equivalent, may not be guided. They must be supervised by an [Authorized Instructor](/en/lists/authorized-pilots/#instructors).
+
+If you are not an [Authorized Guide](/en/lists/authorized-pilots/#guides) you are only permitted to guide pilots who are allowed to fly without supervision (i.e. IPPI 4+ rated pilots); see [Pilots flying solo](#pilots-flying-solo).
 
 ## Flight-related rules
 
@@ -199,7 +208,7 @@ From November 1st to June 1st, between 11 am and 4 pm, some flight restrictions 
 ### Top landing
 
 **Top landing is prohibited in December and January**.  
-**Top landing is prohibited on tandem flights all year;** see [Fines and sanctions](/en/rules/fines/).
+**Top landing is prohibited on tandem flights all year;** see [Sanctions](/en/rules/fines/).
 
 Solo pilots may top land:
 - From February to November, and

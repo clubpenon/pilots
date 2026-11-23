@@ -15,7 +15,7 @@ Esta área se encuentra pasando el portón, en la parte alta del camino de acces
 Caben pocos vehículos, por lo que pedimos a los pilotos que hagan un uso considerado de ella.
 
 - Tiempo máximo de permanencia: **5 minutos**.
-- Excederlo se sanciona; consulta [Multas y sanciones](/es/rules/fines/#exceder-el-tiempo-máximo-en-el-área-de-carga-y-descarga).
+- Excederlo se sanciona; consulta [Sanciones](/es/rules/fines/#exceder-el-tiempo-máximo-en-el-área-de-carga-y-descarga).
 - Del 1 de noviembre al 1 de marzo, el área de carga y descarga está reservada exclusivamente para:
   - [Instructores](/es/lists/authorized-pilots/#instructores) y [Asistentes](/es/lists/authorized-pilots/#asistentes) Autorizados, y sus alumnos.
   - [Guías Autorizados](/es/lists/authorized-pilots/#guías) y sus grupos.
