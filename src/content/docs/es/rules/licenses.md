@@ -104,11 +104,11 @@ Los [Asistentes Autorizados](/es/lists/authorized-pilots/#asistentes) pueden imp
 
 ### Pilotos que guían a otros pilotos
 
-Solo los [Guías Autorizados](/es/lists/authorized-pilots/#guías) y los Instructores Autorizados pueden guiar a pilotos con licencia de nivel IPPI 2, IPPI 3 o equivalente.
+Si no eres [Guía Autorizado](/es/lists/authorized-pilots/#guías) ni Instructor Autorizado, solo puedes guiar a pilotos que tienen permitido volar sin supervisión (es decir, pilotos con nivel IPPI 4+); consulta [Pilotos en vuelo monoplaza](#pilotos-en-vuelo-monoplaza).
+
+Si eres [Guía Autorizado](/es/lists/authorized-pilots/#guías), puedes guiar a pilotos con licencia de nivel IPPI 2, IPPI 3 o equivalente.
 
 Los pilotos que no tienen licencia, o cuya licencia tiene nivel IPPI 1 o equivalente, no pueden ser guiados. Deben estar bajo la supervisión de un [Instructor Autorizado](/es/lists/authorized-pilots/#instructores).
-
-Si no eres [Guía Autorizado](/es/lists/authorized-pilots/#guías) ni Instructor Autorizado, solo puedes guiar a pilotos que tienen permitido volar sin supervisión (es decir, pilotos con nivel IPPI 4+); consulta [Pilotos en vuelo monoplaza](#pilotos-en-vuelo-monoplaza).
 
 ### Definiciones
 
