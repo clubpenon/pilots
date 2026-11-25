@@ -94,14 +94,26 @@ export function airtablePilotsLoader(): Loader {
 						logger.warn(`${list.id}: skipping Public record ${record.id} with no "${FIELDS.name}"`);
 						continue;
 					}
+					/** Drops an invalid optional field with a warning instead of failing the whole build. */
+					const valid = (field: string, value: string | undefined, schema: z.ZodType) => {
+						if (!value || schema.safeParse(value).success) return value;
+						logger.warn(`${list.id}: ignoring invalid "${field}" on record ${record.id}: ${JSON.stringify(value)}`);
+						return undefined;
+					};
+					const website = text(FIELDS.website);
 					const data = await parseData({
 						id,
 						data: {
 							list: list.id,
 							name: text(FIELDS.name),
 							phone: text(FIELDS.phone) || undefined,
-							email: text(FIELDS.email) || undefined,
-							website: text(FIELDS.website) || undefined,
+							email: valid(FIELDS.email, text(FIELDS.email) || undefined, z.email()),
+							// Accept bare domains such as "www.example.com".
+							website: valid(
+								FIELDS.website,
+								website && (/^[a-z][a-z\d+.-]*:\/\//i.test(website) ? website : `https://${website}`),
+								z.url({ protocol: /^https?$/ }),
+							),
 						},
 					});
 					store.set({ id, data });
