@@ -104,11 +104,11 @@ To become an Authorized Instructor, you must:
 
 ### Pilots guiding other pilots
 
-Only [Authorized Guides](/en/lists/authorized-pilots/#guides) are allowed to guide pilots who hold a license with an IPPI 2, IPPI 3, or equivalent rating.
+Only [Authorized Guides](/en/lists/authorized-pilots/#guides) and Authorized Instructors are allowed to guide pilots who hold a license with an IPPI 2, IPPI 3, or equivalent rating.
 
 Pilots who do not have a license, or whose license is rated IPPI 1 or equivalent, may not be guided. They must be supervised by an [Authorized Instructor](/en/lists/authorized-pilots/#instructors).
 
-If you are not an [Authorized Guide](/en/lists/authorized-pilots/#guides) you are only permitted to guide pilots who are allowed to fly without supervision (i.e. IPPI 4+ rated pilots); see [Pilots flying solo](#pilots-flying-solo).
+If you are not an [Authorized Guide](/en/lists/authorized-pilots/#guides) or Authorized Instructor, you are only permitted to guide pilots who are allowed to fly without supervision (i.e. IPPI 4+ rated pilots); see [Pilots flying solo](#pilots-flying-solo).
 
 ### Definitions
 

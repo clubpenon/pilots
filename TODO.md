@@ -29,8 +29,18 @@ Current source: the landing zones map on Google My Maps.
 - [ ] Publish the contact email for InReach/SPOT devices (sos@clubpenon.org) in the emergency pages (EN/ES).
 - [ ] Configure sos@clubpenon.org to forward automatically to Damian, Pana, me, and other pilots.
 - [ ] Ideally, also alert on WhatsApp when a message arrives.
+- [ ] Rule about landing or leaving the area when Helicopter arrives.
+- [ ] Obligacion de inscribir su frequencia en el pizaron y volar, o con su frecuencia, o con la de emergencia.
+- [ ] Agregar a responsiva o registro que SAR no es el Club que lo hace, ni es su responsabilidad.
+- [ ] Agegar a responsiva o registro que los rescatista cobran lo que quieren y no es pedo del club
+- [ ] subir precios de meme.
 
 ## Cleanup (after the above is done)
 
 - [ ] Delete the personal Google Drive paragliding folder.
   - Only once the map data and the PDF are safely in the repo.
+
+## Not part of Rules?
+
+- [ ] Page with a list of landings for the helicopter.
+- [ ] mandar correo con las reglas junto con el QR del passe.
